@@ -9,9 +9,15 @@ In this pair programming project, we are asked to create an enumerable object fr
 
 > To successfully utilize this project first of all you need to clone or download the repository, Then open the terminal
 
+### Run the following commands as listed in your terminal:
+
 ``` bash command
-$ irb
+$ ruby list.rb
 ```
+
+### Usage
+
+Kindly modify the files as needed.
 
 ## Author
 
