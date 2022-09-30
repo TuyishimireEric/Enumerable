@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Decode Morse Message
+# Enumerable
 
-> In this project we learned how to use a module inside our class.
+In this pair programming project, we are asked to create an enumerable object from scratch in Ruby.
 
 
 ## Getting Started
